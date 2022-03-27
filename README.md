@@ -4,14 +4,14 @@ The purpose of this analysis was to provide the school board with metrics of stu
 # Results: 
 When academic dishonesty was suspected in the 9th grade class at Thomas High School, the data set for the math and reading scores were eliminated from the over-all analysis. This led to changes in the output of the calculations.
 - The district summary scores for and % passing math, % passing reading, and % overall passing dropped by 0.01%
-![](link)
+![Disctric Summary OG](https://github.com/K10Huff/School_District_Analysis/blob/main/Images/disctric_summary_df-org.png)
 District Summary: Original
-![](link)
+![District Summary -THS09](https://github.com/K10Huff/School_District_Analysis/blob/main/Images/disctric_summary_df-THS9.png)
 District Summary: -Thomas HS Grade 9
 - The per school summary was also affected, Thomas High School’s % passing math, % passing reading, and % overall passing dropped by fractions of a percent.
-![](link)
+![Per School Summary OG ](https://github.com/K10Huff/School_District_Analysis/blob/main/Images/per_school_summary_df_org.png)
 Per School Summary: Original
-![](link)
+![Per School Summary -THS09](https://github.com/K10Huff/School_District_Analysis/blob/main/Images/per_school_summary_df_THS10_12.png)
 Per School Summary: -Thomas HS Grade 9
 - Replacing the ninth graders’ math and reading scores did not affect affect Thomas High School’s performance relative to the other schools.
 - Replacing the ninth-grade scores did not affect other the math and reading scores by grade.
